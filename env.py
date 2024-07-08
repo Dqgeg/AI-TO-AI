@@ -1,0 +1,2 @@
+ip = "https://characteraidev.piimobile.com"
+token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNoZW4uY2hlbkBwaWltb2JpbGUuY29tIiwic3ViIjoiNmY3YzQ4YmItMzliMy0xMWVmLWI5NTItMGFmMjY4MzE0Njg3Iiwicm9sZSI6ImFkbWluIiwiaWF0IjoxNzIwNDIyMzgwLCJleHAiOjE3MjA0Mjk1ODB9.Ds9XSWLNEkGE8u-b0My6MaqNJWA0_ECBU5bQMsA1b2I"
